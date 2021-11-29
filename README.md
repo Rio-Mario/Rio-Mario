@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mario!
+- 👀 I’m interested in "The Internet Of Things" and the power of information.
+- 🌱 I’m currently learning Javascript, React, HTML & CSS.
+- 💞️ I’m looking to collaborate on web applications.
+- 📫 mario.fashaj98@gmail.com
